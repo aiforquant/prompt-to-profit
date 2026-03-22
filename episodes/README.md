@@ -13,3 +13,5 @@ Index of episode code and strategy variants.
   - Entry Study + ATR Trailing Stop: `episodes/ep4/entry_study`
 - EP5
   - Crisis Trading: `episodes/ep5/crisis_trading`
+- EP6
+  - ATR Trailing Stop + Random Entry Baseline: `episodes/ep6`
