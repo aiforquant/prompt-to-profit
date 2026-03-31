@@ -15,3 +15,5 @@ Index of episode code and strategy variants.
   - Crisis Trading: `episodes/ep5/crisis_trading`
 - EP6
   - ATR Trailing Stop + Random Entry Baseline: `episodes/ep6`
+- EP7
+  - Clamped ATR Trailing Stop: `episodes/ep7`
