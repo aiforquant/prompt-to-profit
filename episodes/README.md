@@ -17,3 +17,5 @@ Index of episode code and strategy variants.
   - ATR Trailing Stop + Random Entry Baseline: `episodes/ep6`
 - EP7
   - Clamped ATR Trailing Stop: `episodes/ep7`
+- EP8
+  - Viral Dip-Buying Strategies + Clamped ATR Exit: `episodes/ep8`
